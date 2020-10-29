@@ -6,7 +6,7 @@ body{
 .trans{
   font-size: 570%;
   position: relative;
-  margin-top: 7.5%;
+  margin-top: 1.5%;
   font-family: 'Henny Penny', cursive;
   letter-spacing: 1rem;
   color: #ff9642;
@@ -17,22 +17,23 @@ body{
   height: 53%;
   width: 23%;
 
-  position: absolute;
+  position: relative;
   left: 70px;
   bottom: 30px;
 
 }
 
-.translator{
+.Translator{
   height: 53%;
   width: 23%;
 
-  position: absolute;
+  position: relative;
   right: 60px;
   bottom: 30px;
 }
 
 .trans1{
+  margin-top: 0%;
   font-size: 220%;
   font-family: 'Dancing Script', cursive;
   width: 40%;
@@ -40,13 +41,22 @@ body{
   color: #28abb9;
 
 }
+.scroll{
+  font-size: 320%;
+  font-family: 'Dancing Script', cursive;
+  margin-top: 100px;
+  width: 40%;
+  margin-left: 30%;
+  color: #111010;
+
+}
 
 .li{
-  border: dotted 10px #94b4a4;
+  border: dotted 10px #303b36;
   border-bottom: none;
   width: 40%;
-  margin-top: 19.5%;
-  margin-bottom: 0;
+  margin-top: 5.5%;
+  margin-bottom: 0%;
 }
 
 .profile{
@@ -57,7 +67,7 @@ body{
   font-size: 350%;
   font-family:'Lobster', cursive;
 position: relative;
-margin-top: 1%;
+margin-top: 0%;
 margin-bottom: 0;
   color: #d7385e;
 }
@@ -95,7 +105,7 @@ margin-bottom: 0;
    cursor: pointer;
    text-align: center;
    margin-right: 170px;
-   margin-top: 110px;
+   margin-top: 25px;
    margin-left: 170px;
 }
 
@@ -184,3 +194,27 @@ margin-bottom: 8%;
     width: 40%;
     margin-left: 30%
 }
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+  
+
